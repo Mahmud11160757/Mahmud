@@ -64,7 +64,7 @@ Es werden die orginalen, rekonstruierten und SSIM Bilder nebeneinander angezeigt
 - Mahmud Saleh 
 - Ilhan Cindrak
 - Tarek Rai
-- Theo mlm 
+- Theodoros Mehlem
 
 
 
