@@ -65,7 +65,7 @@ Es werden die orginalen, rekonstruierten und SSIM Bilder nebeneinander angezeigt
 - Ilhan Cindrak
 - Tark Rai
 - Theodoros Mehlem
-
+- Edon Munishi
 
 
 
